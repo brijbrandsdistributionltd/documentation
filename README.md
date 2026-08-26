@@ -11,6 +11,8 @@ The complete operating handbook for **Clinic OS**, practice-management software 
 - `index.html` — the entire manual as a single self-contained file (all 32 screenshots embedded). Open it in any browser, host it anywhere, or print it as a handbook.
 - Screenshots are from the demo environment; every patient shown is fictional.
 
-*Manual v2.3 · August 2026 · Styled per the Clinic OS Brand Guide.*
+*Manual v2.4 · August 2026 · Styled per the Clinic OS Brand Guide.*
 
-**v2.3 (27 Aug 2026):** new Chapter 16 — Clinical mode, the Bp-style doctor workspace (appointment book, Open Patient search, clinical patient window, ⟳ Represcribe, Finalise visit) plus platform-wide ← → back/forward navigation.
+**v2.4 (27 Aug 2026):** new Chapter 16 — Clinical mode, the Bp-style doctor workspace (appointment book, Open Patient search, clinical patient window, ⟳ Represcribe, Finalise visit) plus platform-wide ← → back/forward navigation.
+
+**v2.4:** the manual itself now runs in both formats — a Classic ⇄ Clinical toggle re-renders it live as a Bp-style desktop document with a scroll-tracking chapter tree.
